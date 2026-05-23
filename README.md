@@ -1,6 +1,6 @@
 # ATM System
 
-A simple Python ATM System project created using basic Python concepts.
+A simple Python ATM System project 2
 
 ## Features
 
